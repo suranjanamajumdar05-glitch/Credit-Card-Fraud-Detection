@@ -106,10 +106,10 @@ This graph displays the top important features used by the Random Forest model f
 <img width="855" height="545" alt="image" src="https://github.com/user-attachments/assets/46e90a5a-c160-4045-a905-e47fe7fc158e" />
 
 # Model Performance Comparison
-Model                Accuracy   Precision  Recall    F1 Score  ROC AUC
-Logistic Regression  0.948904   0.974374   0.922266  0.947604  0.948957
-Decision Tree        0.998408   0.997756   0.999070  0.998413  0.998407
-Random Forest        0.989114   0.997839   0.980395  0.989040  0.989132
+Model                   Accuracy   Precision  Recall    F1 Score  ROC AUC
+1. Logistic Regression  0.948904   0.974374   0.922266  0.947604  0.948957
+2. Decision Tree        0.998408   0.997756   0.999070  0.998413  0.998407
+3. Random Forest        0.989114   0.997839   0.980395  0.989040  0.989132
 
 # Conclusion
 This project demonstrates how Machine Learning can be effectively used for detecting fraudulent credit card transactions. By handling imbalanced data using SMOTE and applying classification algorithms, the system achieves efficient fraud detection performance.
